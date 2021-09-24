@@ -14,7 +14,7 @@ TMPDIR='/tmp'
 VERSION='git824'
 GIT='9e892cb'
 PACKAGE='enigma2-plugin-extensions-youtube'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/main/YouTube'
+MY_URL='https://github.com/tarekzoka/YouTube/raw/main/enigma2-plugin-extensions-youtube_h1%2Bgit824%2B9e892cb-r0.0_all.ipk'
 
 ####################
 #  Image Checking  #
