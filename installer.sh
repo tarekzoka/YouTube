@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL YouTube
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/TAREK-TT/YouTube/installer.sh -qO - | /bin/sh
+# Command: wget https://raw.githubusercontent.com/tarekzoka/YouTube/installer.sh -qO - | /bin/sh
 #
 # ###########################################**
 
