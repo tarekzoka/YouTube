@@ -1,7 +1,12 @@
-!/bin/sh
-# wget https://raw.githubusercontent.com/tarekzoka/YouTube/main/installer.sh -O - | /bin/sh #
-# ###########################################**
 #!/bin/sh
+# ###########################################
+# SCRIPT : DOWNLOAD AND INSTALL YouTube
+# ###########################################
+#
+# Command: wget https://raw.githubusercontent.com/tarekzoka/YouTube/main/installer.sh -O - | /bin/sh #
+#
+# ###########################################**
+
 ###########################################
 # Configure where we can find things here #
 TMPDIR='/tmp'
