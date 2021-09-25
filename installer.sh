@@ -1,4 +1,5 @@
-opkg install --force-overwrite
+# opkg install --force-overwrite
+
 # Command: wget https://raw.githubusercontent.com/tarekzoka/YouTube/installer.sh -qO - | /bin/sh
 #
 # ###########################################**
