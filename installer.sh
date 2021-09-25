@@ -1,7 +1,4 @@
-# opkg install --force-overwrite
-https://github.com/tarekzoka/YouTube/raw/main/enigma2-plugin-extensions-youtube_h1%2Bgit824%2B9e892cb-r0.0_all.ipk
-wget raw
-# Command: wget https://githubusercontent.com/tarekzoka/installer.sh -qO - | /bin/sh
+wget https://raw.githubusercontent.com/tarekzoka/YouTube/main/installer.sh -O - | /bin/sh #
 #
 # ###########################################**
 
