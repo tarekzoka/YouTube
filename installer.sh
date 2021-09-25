@@ -1,7 +1,5 @@
 #!/bin/sh
-# ###########################################
-# SCRIPT : DOWNLOAD AND INSTALL YouTube
-# ###########################################
+install
 #
 # Command: wget https://raw.githubusercontent.com/tarekzoka/YouTube/installer.sh -qO - | /bin/sh
 #
